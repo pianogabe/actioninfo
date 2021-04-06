@@ -10,4 +10,4 @@
 
 ## Digital
 
-* Sweetwater digital action weight test: https://www.sweetwater.com/insync/keyboard-action-and-key-weight-experiment/
+* Sweetwater digital action weight test: https://www.sweetwater.com/insync/keyboard-action-and-key-weight-experiment/ . And a **rebuttal**: https://www.youtube.com/watch?v=qenGD-3bLY4
