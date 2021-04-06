@@ -10,4 +10,4 @@ Acoustic
 Digital
 -------
 
-* Sweetwater digital acion weight test: https://www.sweetwater.com/insync/keyboard-action-and-key-weight-experiment/
+* Sweetwater digital action weight test: https://www.sweetwater.com/insync/keyboard-action-and-key-weight-experiment/
