@@ -5,4 +5,4 @@
 * reverse-engineer the serial communication between mainboard and touchscreen: https://github.com/trebb/untouch
 
 ## Action
-* reducing let-off https://www.youtube.com/watch?v=ZdxQ3DLI198
+* reducing let-off K-300 ATX3 https://www.youtube.com/watch?v=ZdxQ3DLI198
