@@ -1,6 +1,6 @@
 # DIY projects
 
-## Acoustic action to MDI
+## Acoustic action to MIDI
 
 * Evgeni Kumanov's Cybrid https://github.com/ekumanov/cybrid
 * Jay Kominek's Piano Conversion: https://github.com/jkominek/piano-conversion
