@@ -6,3 +6,6 @@
 
 ## Action
 * reducing let-off K-300 ATX3 https://www.youtube.com/watch?v=ZdxQ3DLI198
+
+### own measurements
+* key weight needed to make middle C sound: 81 grams (compare: https://www.sweetwater.com/insync/keyboard-action-and-key-weight-experiment/ )
