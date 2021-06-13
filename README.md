@@ -8,6 +8,10 @@ A collection of interesting links on piano-related information.
 * [technique](technique.md)
 * [DIY projects](diy.md)
 
-## Specific
+## [Open Software](software_projects.md)
+
+
+
+## Specific Systems
 
 * [Kawai ATX3 system](atx3.md)
