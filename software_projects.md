@@ -2,4 +2,4 @@
 
 ## VST related
 
-https://gitlab.com/hberntsen/pianoteq-head-tracking
+* Pianoteq head-tracking: https://gitlab.com/hberntsen/pianoteq-head-tracking
